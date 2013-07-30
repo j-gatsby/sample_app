@@ -5,6 +5,7 @@ gem 'bootstrap-sass'
 gem 'bcrypt-ruby'
 gem 'faker'
 gem 'will_paginate'
+gem 'newrelic_rpm'
 
 group :development, :test do
 	gem 'sqlite3'
